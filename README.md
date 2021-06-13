@@ -1,4 +1,4 @@
 
-Simple Newsletter Sign Up web page
+Simple Newsletter Sign Up web page build using Mailchimp API key and deployed with Heroku.
 
-https://newsletter-signup-ws.herokuapp.com/
+Live version available here: https://newsletter-signup-ws.herokuapp.com/
